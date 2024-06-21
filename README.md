@@ -22,14 +22,18 @@ AUTH0_AUDIENCE="https://api.recipe"
 AUTH0_ISSUER="https://team-recipe.us.auth0.com/"
 ```
 
+API Provided By: https://spoonacular.com/food-api/docs
 
-# assignment-03
+Webapp Screenshots:
+![Home Page](screenshots/homepage.png)
 
-You will be working in groups of up to 3 students for this project.
+![All Recipes Page](screenshots/recipes.png)
+
+![Profile Page](screenshots/profile-after-login.png)
+
+# Final Project Instructions - CS5610
 
 The goal is to develop a "Software as a Service" web application performing CRUD operations based on React, NodeJs and Prisma (Some examples include an online store, food ordering, personal journal, learning management system, social network, ...).
-
-Note: The topic should be different from your application in assignment 2 
 
 Your project must support some functionality for anonymous users and only force users to log in if a user identity is required to fulfill a service. For instance, in an online store, anonymous users should be able to search for products, view product details, read product reviews, etc. If a user would like to bookmark a product, comment on a product, or add a product to a shopping cart, then, and only then, would the website ask the user to identify themselves or register.
 
