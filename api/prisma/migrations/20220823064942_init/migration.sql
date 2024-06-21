@@ -1,0 +1,5 @@
+-- AlterTable
+ALTER TABLE `Favourite` MODIFY `id` INTEGER NOT NULL AUTO_INCREMENT;
+
+-- AlterTable
+ALTER TABLE `Review` MODIFY `updatedAt` DATETIME(3) NULL;

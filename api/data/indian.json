@@ -1,0 +1,602 @@
+[
+    {
+        "recipeId": 798400,
+        "title": "Spicy Black-Eyed Pea Curry with Swiss Chard and Roasted Eggplant",
+        "image": "https://spoonacular.com/recipeImages/798400-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 646043,
+        "title": "Gujarati Dry Mung Bean Curry",
+        "image": "https://spoonacular.com/recipeImages/646043-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 716364,
+        "title": "Rice and Peas with Coconut Curry Mackerel",
+        "image": "https://spoonacular.com/recipeImages/716364-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 660290,
+        "title": "Slow Cooker Lamb Curry",
+        "image": "https://spoonacular.com/recipeImages/660290-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 641122,
+        "title": "Curry Leaves Potato Chips",
+        "image": "https://spoonacular.com/recipeImages/641122-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 642468,
+        "title": "Ethiopian Lentil Curry",
+        "image": "https://spoonacular.com/recipeImages/642468-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 658482,
+        "title": "Roasted Acorn Squash Stuffed with spicy Biryani (Veg/vegan)",
+        "image": "https://spoonacular.com/recipeImages/658482-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 641128,
+        "title": "Curry Mussels",
+        "image": "https://spoonacular.com/recipeImages/641128-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 633088,
+        "title": "Authentic Jamaican Curry Chicken",
+        "image": "https://spoonacular.com/recipeImages/633088-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 641111,
+        "title": "Curry Beef Over Rice Noodles",
+        "image": "https://spoonacular.com/recipeImages/641111-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 650484,
+        "title": "Luscious Palak Paneer",
+        "image": "https://spoonacular.com/recipeImages/650484-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 652542,
+        "title": "Mughlai Malai Kofta Curry",
+        "image": "https://spoonacular.com/recipeImages/652542-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 649199,
+        "title": "Lamb Chops Masala",
+        "image": "https://spoonacular.com/recipeImages/649199-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 651726,
+        "title": "Green Curry Chicken Salad",
+        "image": "https://spoonacular.com/recipeImages/651726-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 641908,
+        "title": "Easy Chicken Tikka Masala",
+        "image": "https://spoonacular.com/recipeImages/641908-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 637422,
+        "title": "Chana Masala in Minty Yogurt sauce",
+        "image": "https://spoonacular.com/recipeImages/637422-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 637391,
+        "title": "Chai Pani’s Malabar Chicken Curry",
+        "image": "https://spoonacular.com/recipeImages/637391-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 632983,
+        "title": "Assam Fish Curry",
+        "image": "https://spoonacular.com/recipeImages/632983-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 640234,
+        "title": "Couscous Biryani",
+        "image": "https://spoonacular.com/recipeImages/640234-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 661740,
+        "title": "Strawberry and Banana Lassi",
+        "image": "https://spoonacular.com/recipeImages/661740-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 631752,
+        "title": "Indian Spiced Red Lentil Soup",
+        "image": "https://spoonacular.com/recipeImages/631752-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 654371,
+        "title": "Palak Gosht",
+        "image": "https://spoonacular.com/recipeImages/654371-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 640656,
+        "title": "Creamy Maharashtrian Chole",
+        "image": "https://spoonacular.com/recipeImages/640656-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 651180,
+        "title": "Masala Lamb Chops",
+        "image": "https://spoonacular.com/recipeImages/651180-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 661287,
+        "title": "Spinach Chickpea - Palak Chana Rice",
+        "image": "https://spoonacular.com/recipeImages/661287-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 657598,
+        "title": "Quick Goan Fish Curry",
+        "image": "https://spoonacular.com/recipeImages/657598-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 648758,
+        "title": "Kari Kepala Ikan Bersama Belimbing Buluh (Fish Head Curry)",
+        "image": "https://spoonacular.com/recipeImages/648758-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 644167,
+        "title": "Garam Masala Pork Chops with Mint Yogurt and Spiced Couscous",
+        "image": "https://spoonacular.com/recipeImages/644167-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 652026,
+        "title": "Mint, Fennel and Garlic Naan",
+        "image": "https://spoonacular.com/recipeImages/652026-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 647830,
+        "title": "Indian Lentil Dahl",
+        "image": "https://spoonacular.com/recipeImages/647830-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 716338,
+        "title": "Lamb Coconut Tomato Curry Sauce",
+        "image": "https://spoonacular.com/recipeImages/716338-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 661072,
+        "title": "Spicy Coconut Curry With Peppers, Pak Choi and Tomatoes",
+        "image": "https://spoonacular.com/recipeImages/661072-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 638389,
+        "title": "Chicken Tikka Masala Indian",
+        "image": "https://spoonacular.com/recipeImages/638389-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 1096225,
+        "title": "Coconut Vegetable Curry Over Quinoa",
+        "image": "https://spoonacular.com/recipeImages/1096225-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 650871,
+        "title": "Maple & Curry Acorn Squash",
+        "image": "https://spoonacular.com/recipeImages/650871-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 648774,
+        "title": "Kashmiri Rogan Josh",
+        "image": "https://spoonacular.com/recipeImages/648774-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 634579,
+        "title": "Beef and Tomato Curry Over Quinoa",
+        "image": "https://spoonacular.com/recipeImages/634579-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 651911,
+        "title": "Minced Beef Curry",
+        "image": "https://spoonacular.com/recipeImages/651911-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 650673,
+        "title": "Malay-Style Red Chicken Curry",
+        "image": "https://spoonacular.com/recipeImages/650673-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 633649,
+        "title": "Baked Indian Spice Chickpea",
+        "image": "https://spoonacular.com/recipeImages/633649-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 637426,
+        "title": "Channa-Chickpea, Potato & Cauliflower Curry",
+        "image": "https://spoonacular.com/recipeImages/637426-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 658058,
+        "title": "Red Curry Stew & Vegetable Noodles",
+        "image": "https://spoonacular.com/recipeImages/658058-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 638496,
+        "title": "Chickpea and Pumpkin Curry",
+        "image": "https://spoonacular.com/recipeImages/638496-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 663824,
+        "title": "TrinrecipeIdadian Chicken Potato Curry",
+        "image": "https://spoonacular.com/recipeImages/663824-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 637264,
+        "title": "Cashew Butter Chicken",
+        "image": "https://spoonacular.com/recipeImages/637264-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 716202,
+        "title": "Fenugreek Roti",
+        "image": "https://spoonacular.com/recipeImages/716202-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 773676,
+        "title": "mushroom curry",
+        "image": "https://spoonacular.com/recipeImages/773676-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 654373,
+        "title": "Palak Paneer",
+        "image": "https://spoonacular.com/recipeImages/654373-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 663090,
+        "title": "Thai Coconut Curry Lentil Soup",
+        "image": "https://spoonacular.com/recipeImages/663090-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 654313,
+        "title": "Pachai Payaru Kulambu (Green Moong Dal Curry)",
+        "image": "https://spoonacular.com/recipeImages/654313-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 664861,
+        "title": "Curry Spiced Carrots",
+        "image": "https://spoonacular.com/recipeImages/664861-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 642283,
+        "title": "Eggplant Curry",
+        "image": "https://spoonacular.com/recipeImages/642283-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 1096230,
+        "title": "Healthy Tomato Soup with Coconut and Curry",
+        "image": "https://spoonacular.com/recipeImages/1096230-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 658967,
+        "title": "Saffron Chicken Tikka",
+        "image": "https://spoonacular.com/recipeImages/658967-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 650378,
+        "title": "Curry Chicken Salad",
+        "image": "https://spoonacular.com/recipeImages/650378-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 649000,
+        "title": "Kofat Curry/meat Ball Curry",
+        "image": "https://spoonacular.com/recipeImages/649000-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 663074,
+        "title": "Thai Basil Chicken With Green Curry",
+        "image": "https://spoonacular.com/recipeImages/663074-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 1096306,
+        "title": "Vegan Chana Masala Curry",
+        "image": "https://spoonacular.com/recipeImages/1096306-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 651337,
+        "title": "Meatball Curry (Kofta Curry)",
+        "image": "https://spoonacular.com/recipeImages/651337-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 721185,
+        "title": "avarakkai paruppu curry recipe",
+        "image": "https://spoonacular.com/recipeImages/721185-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 641123,
+        "title": "Curry Fish With Peas",
+        "image": "https://spoonacular.com/recipeImages/641123-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 651914,
+        "title": "Minced Mutton Curry",
+        "image": "https://spoonacular.com/recipeImages/651914-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 641904,
+        "title": "Easy Chicken Tandoori",
+        "image": "https://spoonacular.com/recipeImages/641904-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 663092,
+        "title": "Thai Coconut Curry Soup",
+        "image": "https://spoonacular.com/recipeImages/663092-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 635601,
+        "title": "Boiled Egg Curry",
+        "image": "https://spoonacular.com/recipeImages/635601-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 663868,
+        "title": "Tropical Thai Chicken Curry",
+        "image": "https://spoonacular.com/recipeImages/663868-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 658068,
+        "title": "Red Lentil Curry (Vegan, Gluten Free)",
+        "image": "https://spoonacular.com/recipeImages/658068-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 647680,
+        "title": "Hyderabadi Chicken Curry",
+        "image": "https://spoonacular.com/recipeImages/647680-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 651184,
+        "title": "Masala Raisin Chicken",
+        "image": "https://spoonacular.com/recipeImages/651184-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 641110,
+        "title": "Curry and Sage Roast Chicken",
+        "image": "https://spoonacular.com/recipeImages/641110-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 642941,
+        "title": "Fish Fillet In Creamy Coconut Curry",
+        "image": "https://spoonacular.com/recipeImages/642941-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 652598,
+        "title": "Murg Malai Tikka",
+        "image": "https://spoonacular.com/recipeImages/652598-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 654532,
+        "title": "Paneer jalfrezi",
+        "image": "https://spoonacular.com/recipeImages/654532-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 646123,
+        "title": "Halibut with Coconut and Green Curry",
+        "image": "https://spoonacular.com/recipeImages/646123-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 663144,
+        "title": "Thai Red Curry",
+        "image": "https://spoonacular.com/recipeImages/663144-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 640621,
+        "title": "Creamy Chicken Tikka Masala",
+        "image": "https://spoonacular.com/recipeImages/640621-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 657095,
+        "title": "Prawn Curry",
+        "image": "https://spoonacular.com/recipeImages/657095-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 647795,
+        "title": "Indian Asparagus with Ginger & Lime",
+        "image": "https://spoonacular.com/recipeImages/647795-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 660185,
+        "title": "Singapore Curry",
+        "image": "https://spoonacular.com/recipeImages/660185-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 644376,
+        "title": "Garlic-Butter Naan",
+        "image": "https://spoonacular.com/recipeImages/644376-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 769533,
+        "title": "chettinad egg curry",
+        "image": "https://spoonacular.com/recipeImages/769533-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 633650,
+        "title": "Baked Indian Samosas",
+        "image": "https://spoonacular.com/recipeImages/633650-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 641958,
+        "title": "Easy Eggplant Curry",
+        "image": "https://spoonacular.com/recipeImages/641958-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 642499,
+        "title": "Express Chicken Curry",
+        "image": "https://spoonacular.com/recipeImages/642499-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 157459,
+        "title": "Spicy Coconut Chicken Curry",
+        "image": "https://spoonacular.com/recipeImages/157459-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 640634,
+        "title": "Creamy Curry Chicken With Yellow Rice",
+        "image": "https://spoonacular.com/recipeImages/640634-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 658347,
+        "title": "RrecipeIdiculously Easy Naan",
+        "image": "https://spoonacular.com/recipeImages/658347-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 636488,
+        "title": "Butter Chicken",
+        "image": "https://spoonacular.com/recipeImages/636488-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 650606,
+        "title": "Madras Beef Curry",
+        "image": "https://spoonacular.com/recipeImages/650606-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 773671,
+        "title": "mushroom masala",
+        "image": "https://spoonacular.com/recipeImages/773671-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 627874,
+        "title": "mint raita",
+        "image": "https://spoonacular.com/recipeImages/627874-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 639803,
+        "title": "Coconut Prawn Curry",
+        "image": "https://spoonacular.com/recipeImages/639803-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 664575,
+        "title": "Vegetable Paneer Skewers Or Paneer Tikka",
+        "image": "https://spoonacular.com/recipeImages/664575-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 645769,
+        "title": "Grilled Masala Prawns With Pineapple-Mint Raita",
+        "image": "https://spoonacular.com/recipeImages/645769-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 652834,
+        "title": "My Chicken Korma",
+        "image": "https://spoonacular.com/recipeImages/652834-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 660959,
+        "title": "Spiced Lassi",
+        "image": "https://spoonacular.com/recipeImages/660959-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 651186,
+        "title": "Masala Roti/chapati( Spiced Indian Flat Bread)",
+        "image": "https://spoonacular.com/recipeImages/651186-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 1450327,
+        "title": "Simple Garlic Butter Naan",
+        "image": "https://spoonacular.com/recipeImages/1450327-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 627875,
+        "title": "onion raita",
+        "image": "https://spoonacular.com/recipeImages/627875-312x231.jpg",
+        "cuisine": "indian"
+    },
+    {
+        "recipeId": 659204,
+        "title": "Salted Mint Lassi",
+        "image": "https://spoonacular.com/recipeImages/659204-312x231.jpg",
+        "cuisine": "indian"
+    }
+]

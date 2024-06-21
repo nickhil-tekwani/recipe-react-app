@@ -1,0 +1,411 @@
+{
+	"info": {
+		"_postman_id": "391810f7-f74d-4332-aaef-0ff4614af294",
+		"name": "Assignment 3",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "20340376"
+	},
+	"item": [
+		{
+			"name": "Review",
+			"item": [
+				{
+					"name": "POST /reviews",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{TOKEN}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"recipeId\": 1,\n    \"rating\": 4,\n    \"comment\": \"this is a comment\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:8000/reviews",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"reviews"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PUT /reviews",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{TOKEN}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"rating\": 3,\n    \"comment\": \"this is a comment\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:8000/reviews/1",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"reviews",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /reviews/recipe/:id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8000/reviews/recipe/3",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"reviews",
+								"recipe",
+								"3"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /reviews/user/:id",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{TOKEN}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8000/reviews/user",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"reviews",
+								"user"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DELETE /reviews/user/:id",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{TOKEN}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "localhost:8000/reviews/2",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"reviews",
+								"2"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Favourite",
+			"item": [
+				{
+					"name": "POST /favourites",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{TOKEN}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"recipeId\": 1,\n    \"title\": \"Title\",\n    \"image\": \"http://image-url\",\n    \"cuisine\":\"cuisine\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:8000/favourites",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"favourites"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /favourites",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{TOKEN}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8000/favourites",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"favourites"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DELETE /favourites/recipe/:id",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "localhost:8000/favourites/recipe/2",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"favourites",
+								"recipe",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET /favourites/recipe/:id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8000/favourites/recipe/3",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"favourites",
+								"recipe",
+								"3"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "User",
+			"item": [
+				{
+					"name": "GET /profile",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{TOKEN}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8000/profile",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"profile"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PUT /profile",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"username\": \"hm\",\n    \"name\": \"ddssdsd\",\n    \"gender\": \"Female\",\n    \"age\": 5,\n    \"location\": \"Vancouver\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:8000/profile",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"profile"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Ping",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8000/ping",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"ping"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Verify user",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{TOKEN}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "localhost:8000/verify-user",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"verify-user"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "TOKEN",
+			"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlR1czk2NVVBVHBrOHNhZy1mZXJWTSJ9.eyJpc3MiOiJodHRwczovL2Rldi0wbzRkdXpkeC51cy5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NjMwNTAzN2RlYTJlNzAxNjBjZDhiNzM3IiwiYXVkIjpbImh0dHBzOi8vYXBpLnJlY2lwZXMiLCJodHRwczovL2Rldi0wbzRkdXpkeC51cy5hdXRoMC5jb20vdXNlcmluZm8iXSwiaWF0IjoxNjYxMjc1MDUwLCJleHAiOjE2NjEzNjE0NTAsImF6cCI6IlBldldyZm1XaFRIY05iYWhuR3lEUXc3bGlMVzVra082Iiwic2NvcGUiOiJvcGVuaWQgcHJvZmlsZSBlbWFpbCJ9.YTyUQq2EqciIgWD1JlipH97Zglj20AQKtFTcJYazVa4ZOEn8IkfUSU2J8EQXLwrAKB-wbLrTHUI_TVi8XAUB69w0cuZQxwgzreIKL9wYAE_mUppm7SkhPQblOe8XXbSRMsTZ8xvelzC-CWpdJx7dBEpC408QWB1mPnEc4Fbe-HLOio92gplyO_BJX7zaRxyPbnnFLRa5u3XqyS_uuyZzsZuBsrxeuLN76fd5CyhLbKtXDFOu3eGRIdKoVPAQmx209-F52ctbCwsUbB9loO67YvNCZb2EVJzzi63lWsFYUhM-_mHae5l6ymBWbReZpmTbnQeEOTo1fUrU41ER2SvcrQ",
+			"type": "string"
+		}
+	]
+}
